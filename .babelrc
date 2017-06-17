@@ -1,0 +1,8 @@
+{
+  "presets": ["es2015"],
+  "plugins": [],
+  "ignore": [
+    "foo.js",
+    "node_modules/**/*.js"
+  ]
+}
